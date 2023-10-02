@@ -1,1 +1,1 @@
-# My_projects
+# My_Snake_and_food_game_project
