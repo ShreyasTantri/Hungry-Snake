@@ -1,7 +1,7 @@
 # My_Snake_and_food_game_project
 
 
-The project you provided consists of two main parts: a simple Snake game and a set of JavaScript examples. Here's a brief description of each part:
+The project consists of a simple Snake game . Here's a brief description :
 
 Snake Game:
 
