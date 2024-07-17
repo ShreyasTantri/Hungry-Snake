@@ -1,4 +1,4 @@
-# Hungry Snake project
+# Hungry-Snake project
 
 
 The project consists of a simple Snake game . Here's a brief description :
